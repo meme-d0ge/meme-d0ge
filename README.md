@@ -3,7 +3,6 @@
 <span>― Next.js / React</span> <br/>
 <span>― Zustand</span> <br/>
 <span>― Tailwind CSS / SCSS / CSS modules</span> <br/>
-<span>― Lazy Loading</span> <br/>
 <span>― ESLint </span> <br/>
 
 <b>⚙ Backend:</b> <br/>
